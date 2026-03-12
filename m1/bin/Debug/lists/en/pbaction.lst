@@ -1,0 +1,60 @@
+$name=pbaction
+$version=2
+$default=002
+$main
+
+#010 Start Violet Table Background Music
+#017 Start Red Table Background Music
+#018 Start Blue Table Background Music
+#026 Hiscore - Enter Name: First Position Background Music
+#027 Hiscore - Enter Name Background Music
+#029 Violet Table Background Music
+#036 Start Green Table Background Music
+#050 Intro Music
+
+--------------------------------------------------------------
+ [SFX]
+
+#002 Credit
+#003 Table Completed - Extra Ball
+#004 All Tables Completed - Extra Credits
+#007 Dissapearing Bumper Down
+#008 Flipper Move
+#009 Ball Lock Recollecting
+#012 Spinning Bumper Hit
+#013 Passive Bumper Hit
+#014 Barrier Lost
+#015 Spinning Bumper Hit
+#016 Get Bonus
+#019 Table Warp
+#020 Red Table - Fruit Wheel Spinning
+#021 Red Table - Fruit Wheel Stop
+#022 Blue Table - Throw Ball
+#023 Blue Table - Step Complete
+#024 Light Bumper Hit
+#025 Game Over
+#028 Advance Count
+#030 Oval Bumper Hit
+#033 Wheel Spinning
+#034 Throw Ball
+#035 Reset Bumpers
+#037 Warp Open
+#038 Bumper Hit
+#042 Dissapearing Bumper Down
+#043 Flipper Move
+#044 Ball Lock Recollecting
+#045 Throw Ball
+#046 Spinning Bumper Hit
+#047 Passive Bumper Hit
+#048 Triangle Bumper Hit
+#049 Ball Loose
+#051 Red Table - Extra Alert
+#053 Red Table - Extra Win
+#054 Passive Bumper Hit
+#055 Get Bonus
+#056 Time Alert
+#057 Oval Bumper Hit
+#058 Light Bumper Hit
+
+// List Contribution by shunninghuang / GECA soft
+$end
